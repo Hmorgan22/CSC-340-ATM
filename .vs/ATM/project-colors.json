@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef514b51-4977-41f8-8687-fcfe6a858a17": {
+      "ProjectGuid": "ef514b51-4977-41f8-8687-fcfe6a858a17",
+      "DisplayName": "ATM",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
